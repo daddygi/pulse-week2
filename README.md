@@ -1,4 +1,4 @@
-# PULSE WEEK 2, addded new feature `feature/read`
+# PULSE WEEK 2, added new feature `feature/read`
 
 # Another Commit
 
